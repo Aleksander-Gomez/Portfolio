@@ -38,8 +38,10 @@ and Discord.
 
 ## Languages
 * Spanish – Fluent; Russian – Advanced
+
  
 ## WORK EXPERIENCE
+-----------------------------------------------------------------------------------------------
 ### King Soopers, Produce Associate || May 2023 - Jul 2024
 * Stocked produce, operated machinery, adjusted stock orders, and maintained inventory
 accuracy. 
