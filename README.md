@@ -3,7 +3,7 @@
 ### Metropolitan State University of Denver || May 2024
 #### B.S. Computer Science &amp; Minor in Mathematics
 * Cumulative GPA: 3.59/4.0
-* Community College of Aurora, Concurrent Enrollment; GPA: 4.0/4.0 || May 2021
+* Community College of Aurora, Concurrent Enrollment, GPA: 4.0/4.0 || May 2021
   
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
@@ -38,20 +38,20 @@ and Discord.
 
 ## Languages
 * Spanish – Fluent; Russian – Advanced
------------------------------------------------------------------------------------------------ 
+ 
 ## WORK EXPERIENCE
 ### King Soopers, Produce Associate || May 2023 - Jul 2024
 * Stocked produce, operated machinery, adjusted stock orders, and maintained inventory
 accuracy. 
 * Ensured cleanliness and sanitation of produce and equipment, adhering to safety standards. 
 * Greeted and assisted customers with inquiries, enhancing customer shopping experience.
------------------------------------------------------------------------------------------------ 
+
 ### Walmart, Front-end Cashier and Stocking Associate || February 2022 - May 2023
 * Utilized company standard applications to assist customers, allocate stock, and work-related
 tasks.
 * Operated warehouse equipment, unloaded trucks, and ensured delivery of high-ticket items.
 * Constructed detailed and important displays alone and with a team.
------------------------------------------------------------------------------------------------   
+  
 ### National Martial Arts Academy, Floor Instructor || August 2021 - February 2022
 * Constructed lesson planners and led classes for kids, young adults, and adults.
 * Enhanced student retention by innovating curriculum and engaging instructional methods. 
