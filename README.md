@@ -14,6 +14,7 @@
 * Developed visualizations and converted data tables to clearly present sales trends.
 
 ### Machine Learning English-Spanish Translator
+![TranslatorCollage](Assets/EngSpaCollage.png)
 * Performed Data Exploration, Manipulation, and Analysis on a large, imported translation
 dataset. 
 * Utilized Pytorch and Hugging Face models to build a small encoder-decoder transformer.
