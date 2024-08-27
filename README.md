@@ -3,13 +3,23 @@
 B.S. Computer Science &amp; 
 * Cumulative GPA: 3.59/4.0
 * Community College of Aurora, Concurrent Enrollment; GPA: 4.0/4.0, August 2019 - May 2021
+  
 ## PROJECTS
-Machine Learning English-Spanish Translator
+
+#### Coffee Sales Data Analysis
+
+![ExcelDashboard](Assets/CoffeeDashboard.png)
+
+* Preprocessed and calculated data to derive insights and metrics from coffee sales.
+* Created pivot tables, slicers, and timelines for interactive data analysis.
+* Developed visualizations and converted data tables to clearly present sales trends.
+
+#### Machine Learning English-Spanish Translator
 * Performed Data Exploration, Manipulation, and Analysis on a large, imported translation
 dataset. 
 * Utilized Pytorch and Hugging Face models to build a small encoder-decoder transformer.
 * Created an English-to-Spanish translator using a trained model on Google Colab.
-# MSU Denver Bulletin Board
+#### MSU Denver Bulletin Board
 * Collaborated with a team to build a live bulletin board app for university professors.
 * Developed backend with Firebase and Auth0 and front end with GitHub pages.
 * Utilized Trello to manage workflow, practiced agile development, and communicated via teams
