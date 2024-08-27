@@ -3,7 +3,7 @@
 ### Metropolitan State University of Denver || May 2024
 #### B.S. Computer Science &amp; Minor in Mathematics
 * Cumulative GPA: 3.59/4.0
-* Community College of Aurora, Concurrent Enrollment, GPA: 4.0/4.0 || May 2021
+* Community College of Aurora, Concurrent Enrollment, GPA: 4.0/4.0 — May 2021
   
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
