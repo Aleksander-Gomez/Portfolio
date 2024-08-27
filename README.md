@@ -21,6 +21,7 @@ dataset. 
 * Created an English-to-Spanish translator using a trained model on Google Colab.
 
 ### MSU Denver Bulletin Board
+![BBGif](Assets/BBGif.gif)
 * Collaborated with a team to build a live bulletin board app for university professors.
 * Developed backend with Firebase and Auth0 and front end with GitHub pages.
 * Utilized Trello to manage workflow, practiced agile development, and communicated via teams
