@@ -7,6 +7,12 @@
   
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
+### Bike Sales Data Analysis
+![ExcelDashboard](Assets/BikeSalesDashboardImage.png)
+* Preprocessed data in excel and added categorical columns for demographic generalization.
+* Utilized pivot tables to generate meaningful insights from generalized data.
+* Produced a demographic-focused dashboard as it relates to bike sales with interactive slicers. 
+
 ### Coffee Sales Data Analysis
 ![ExcelDashboard](Assets/CoffeeDashboard.png)
 * Preprocessed and calculated data to derive insights and metrics from coffee sales.
