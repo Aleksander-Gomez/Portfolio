@@ -8,7 +8,7 @@
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
 ### Bank Loan Data Analysis
-![ExcelDashboard](FinanceDataSpedUp_V2.gif)
+![ExcelDashboard](Assets/FinanceDataSpedUp_V2.gif)
 * Preprocessed and formatted data for usability in data analysis. 
 * Created Linked dashboards for Summary and Overview statistics.
 * Generated maps, pie charts, bar charts, and line graphs for detailed visualization.
