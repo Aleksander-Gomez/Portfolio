@@ -57,6 +57,10 @@ and Discord.
  
 ## WORK EXPERIENCE
 -----------------------------------------------------------------------------------------------
+### T-mobile, Mobile Expert || October 2024 - Present
+* Leveraged Power Bi to view personal metrics for areas of improvement and data reporting and aggregation.
+* Resolved daily technical issues ensure smooth operation and customer satisfaction. 
+* Frequently referenced technical documentation to ensure integrity of sales and operations. 
 ### King Soopers, Produce Associate || May 2023 - Jul 2024
 * Stocked produce, operated machinery, adjusted stock orders, and maintained inventory
 accuracy. 
