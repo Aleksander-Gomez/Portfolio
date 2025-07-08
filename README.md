@@ -52,7 +52,8 @@ and Discord.
 * GitHub, Jira, Excel, Office, Trello, Azure, Firebase, SolidWorks, AutoCAD, Autodesk
 
 ## Languages
-* Spanish – Fluent; Russian – Advanced
+* Spanish – Fluent
+* Russian – Advanced
 
  
 ## WORK EXPERIENCE
