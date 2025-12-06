@@ -7,7 +7,7 @@
 
 ## INTERNSHIPS
 -----------------------------------------------------------------------------------------------
-| ### T-Mobile – Geospatial Data Analyst | Sep 2025 – Nov 2025 |
+### T-Mobile – Geospatial Data Analyst | Sep 2025 – Nov 2025
 | -------------------------------------- | -------------------: |
 
 ![place_holder_path)  
