@@ -10,7 +10,7 @@
 ### T-Mobile – Geospatial Data Analyst || Sep 2025 – Nov 2025
 
 <!-- ![Internship](Assets/image.png) --> 
-<img src="/Assets/image.png" style="max-width:100%; height:auto;">
+<img src="/Assets/image.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 * Optimized critical monthly reporting to ensure marketing had accurate and actionable data.
 * Built and maintained performance dashboards to track supportability and partner-level metrics.
