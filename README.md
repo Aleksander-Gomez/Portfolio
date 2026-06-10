@@ -15,6 +15,12 @@
   
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
+### Optimized Neural Intelligence(ONI)V.1.
+![ExcelDashboard](Assets/FinanceDataSpedUp_V2.gif)
+* Configured and integrated multiple systems to interface api connections for models. 
+* Neural Network reflects tags, automated via feedback and categorizaed with seperate logic.
+* Intended for local use, cloud connection supported for testing and trialing context mapping.
+
 ### Bank Loan Data Analysis
 ![ExcelDashboard](Assets/FinanceDataSpedUp_V2.gif)
 * Preprocessed and formatted data for usability in data analysis. 
