@@ -1,4 +1,6 @@
-# EDUCATION
+# Portfolio
+-----------------------------------------------------------------------------------------------
+## EDUCATION
 -----------------------------------------------------------------------------------------------
 ### Metropolitan State University of Denver || May 2024
 #### B.S. Computer Science &amp; Minor in Mathematics
