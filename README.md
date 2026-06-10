@@ -16,7 +16,9 @@
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
 ### Optimized Neural Intelligence(ONI)V.1.
-![ExcelDashboard](Assets/FinanceDataSpedUp_V2.gif)
+![ProjectGif](Assets/p1.gif)
+![ProjectGif](Assets/p2.gif)
+![ProjectGif](Assets/p3.gif)
 * Configured and integrated multiple systems to interface api connections for models. 
 * Neural Network reflects tags, automated via feedback and categorizaed with seperate logic.
 * Intended for local use, cloud connection supported for testing and trialing context mapping.
