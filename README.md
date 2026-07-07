@@ -23,6 +23,12 @@
 * Goal: Re-purrrpose for elderly ease of use, and re-purpose old harrdware avoiding e-waste!
 * Bonus: Attempt to coinfigure locally accessible photo storage for those who have run out of storage.
 
+### Re-purposed water damaged M1 Mac Pro 2019! 
+![ProjectGif]()
+* Water/Juice damaged Macbook, unusable LCD and corrosion around usb-c ports
+* Goal: detach LCD, test logic board components and re-purpose with external monitor as mac homelab.
+* Bonus: Replace LCD in the future or attatch mac to desktop as is.
+
 ### Car Speaker System and Amp Upgrade 
 ![ProjectGif]()
 * Built completley using Linux Distro Pop OS on home desktop with 8tb HDD storage. 
