@@ -17,23 +17,20 @@
   
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
-### Re-purposed AIOs with Puppy OS for nearby elderly center! 
-![ProjectGif]()
+### Re-purposed AIOs with Puppy OS for nearby elderly center! (WIP)(Progress Photos)
 * Booting Puppy OS onto a handful of Gateway and HP AIOs no longer used by IT company. 
 * Goal: Re-purrrpose for elderly ease of use, and re-purpose old harrdware avoiding e-waste!
 * Bonus: Attempt to coinfigure locally accessible photo storage for those who have run out of storage.
 
-### Re-purposed water damaged M1 Mac Pro 2019! 
-![ProjectGif]()
+### Re-purposed water damaged M1 Mac Pro 2019! (WIP)(Progress Photos)
 * Water/Juice damaged Macbook, unusable LCD and corrosion around usb-c ports
 * Goal: detach LCD, test logic board components and re-purpose with external monitor as mac homelab.
 * Bonus: Replace LCD in the future or attatch mac to desktop as is.
 
 ### Car Speaker System and Amp Upgrade 
-![ProjectGif]()
-* Built completley using Linux Distro Pop OS on home desktop with 8tb HDD storage. 
-* Learned and Utilized Docker and structured a file system for each services compose yml.
-* Implemented Tailscale for remote accessibility to cloud storage, saving money on paid servies!
+* Upgraded 2003 Ford Taurus Speaker, Amp, and Dash for improved sound, bass, and control. 
+* Utilized knowledge of basic electrical principles and multimeter to ensure proper power and grounding. 
+* Applied sound principles to acheive best possible bass given wagon body style for longer delivery.
 
 ### Personal Homelab 
 ![ProjectGif](Assets/homelab.png)
@@ -41,7 +38,7 @@
 * Learned and Utilized Docker and structured a file system for each services compose yml.
 * Implemented Tailscale for remote accessibility to cloud storage, saving money on paid servies!
 
-### Optimized Neural Intelligence(ONI)V.1.
+### Optimized Neural Intelligence(ONI)V.1.(Progress Photos)
 ![ProjectGif](Assets/p1.gif)
 ![ProjectGif](Assets/p2.gif)
 ![ProjectGif](Assets/p3.gif)
