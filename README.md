@@ -17,6 +17,24 @@
   
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
+### Re-purposed AIOs with Puppy OS for nearby elderly center! 
+![ProjectGif]()
+* Booting Puppy OS onto a handful of Gateway and HP AIOs no longer used by IT company. 
+* Goal: Re-purrrpose for elderly ease of use, and re-purpose old harrdware avoiding e-waste!
+* Bonus: Attempt to coinfigure locally accessible photo storage for those who have run out of storage.
+
+### Car Speaker System and Amp Upgrade 
+![ProjectGif]()
+* Built completley using Linux Distro Pop OS on home desktop with 8tb HDD storage. 
+* Learned and Utilized Docker and structured a file system for each services compose yml.
+* Implemented Tailscale for remote accessibility to cloud storage, saving money on paid servies!
+
+### Personal Homelab 
+![ProjectGif](Assets/homelab.png)
+* Built completley using Linux Distro Pop OS on home desktop with 8tb HDD storage. 
+* Learned and Utilized Docker and structured a file system for each services compose yml.
+* Implemented Tailscale for remote accessibility to cloud storage, saving money on paid servies!
+
 ### Optimized Neural Intelligence(ONI)V.1.
 ![ProjectGif](Assets/p1.gif)
 ![ProjectGif](Assets/p2.gif)
