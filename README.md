@@ -17,6 +17,12 @@
   
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
+
+### Client Git Pages hosted Makeup Portfolio
+* Used Github and a simple Read.me with inline HTML and additional styles sheets in scss for appropriate look. 
+* Implemented Formspree and Calendly inline widgets for access to services and ability for direct booking.
+* Included portfolio photos of pervious makeup looks for references, working on review section. 
+
 ### Re-purposed AIOs with Puppy OS for nearby elderly center! (WIP)(Progress Photos)
 * Booting Puppy OS onto a handful of Gateway and HP AIOs no longer used by IT company. 
 * Goal: Re-purrrpose for elderly ease of use, and re-purpose old harrdware avoiding e-waste!
