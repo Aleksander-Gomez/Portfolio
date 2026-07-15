@@ -18,11 +18,11 @@
 ## PROJECTS
 -----------------------------------------------------------------------------------------------
 
-### Personal Homelab 
-![ProjectGif](Assets/collageddb.png)
-* Built completley using Linux Distro Pop OS on home desktop with 8tb HDD storage. 
-* Learned and Utilized Docker and structured a file system for each services compose yml.
-* Implemented Tailscale for remote accessibility to cloud storage, saving money on paid servies!
+### Research Database
+![ProjectGif](Assets/portfoliogif.gif
+* Built PostgreSQL database documenting corporate surveillance, platform enclosure, and labor displacement.
+* Designed schema with key relationships and Python ETL pipelines to pull and clean government datasets.
+* Wrote SQL queries using window functions, multi-table JOINs, and aggregations to surface patterns.
 
 ### Client Git Pages hosted Makeup Portfolio
 ![ProjectGif](Assets/portfoliogif.gif)
