@@ -19,7 +19,8 @@
 -----------------------------------------------------------------------------------------------
 
 ### Research Database
-![ProjectGif](Assets/portfoliogif.gif
+![ProjectGif](Assets/collageddb.png)
+![ProjectGif](Assets/pypulls.png)
 * Built PostgreSQL database documenting corporate surveillance, platform enclosure, and labor displacement.
 * Designed schema with key relationships and Python ETL pipelines to pull and clean government datasets.
 * Wrote SQL queries using window functions, multi-table JOINs, and aggregations to surface patterns.
