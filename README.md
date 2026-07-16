@@ -24,6 +24,16 @@
 * Designed schema with key relationships and Python ETL pipelines to pull and clean government datasets.
 * Wrote SQL queries using window functions, multi-table JOINs, and aggregations to surface patterns.
 
+### Research Notebook
+![ProjectGif](assets/chart1_nvidia_revenue.png)
+![ProjectGif](assets/chart3_layoffs_vs_nvidia.png)
+![ProjectGif](assets/chart5_information_enclosure.png)
+![ProjectGif](assets/chart7_layoffs_by_industry.png)
+![ProjectGif](assets/chart8_layoffs_by_company.png)
+* Authored a notebook connecting 13 PostgreSQL tables to surface patterns in corporate surveillance, AI-driven labor displacement, and platform enclosure.
+* Built visualizations using Matplotlib and Seaborn to argue a cohesive data-backed thesis.
+* Cross-referenced BLS wage data, SEC EDGAR filings, tech layoff records, and Palantir government contracts to show how correlations with labor and AI.
+  
 ### Machine Learning English-Spanish Translator
 ![TranslatorCollage](Assets/EngSpaCollage.png)
 * Performed data exploration, manipulation, and analysis on a large, imported translation dataset.
