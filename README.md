@@ -30,7 +30,7 @@
 ![ProjectGif](Assets/chart5_information_enclosure.png)
 ![ProjectGif](Assets/chart7_layoffs_by_industry.png)
 ![ProjectGif](Assets/chart8_layoffs_by_company.png)
-* Authored a notebook connecting 13 PostgreSQL tables to surface patterns in corporate surveillance, AI-driven labor displacement, and platform enclosure.
+* Built a notebook connecting 13 PostgreSQL tables to surface patterns in corporate surveillance, AI-driven labor displacement, and platform enclosure.
 * Built visualizations using Matplotlib and Seaborn to argue a cohesive data-backed thesis.
 * Cross-referenced BLS wage data, SEC EDGAR filings, tech layoff records, and Palantir government contracts to show how correlations with labor and AI.
   
